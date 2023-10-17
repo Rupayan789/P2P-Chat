@@ -1,0 +1,29 @@
+P2P_Backend/.env
+P2P_Backend/node_modules
+P2P_Backend/package-lock.json
+P2P_Backend/logs
+P2P_Backend/config/firebaseConfig.json
+
+# dependencies
+p2p_frontend/node_modules
+p2p_frontend/.pnp
+p2p_frontend/.pnp.js
+
+# testing
+p2p_frontend/coverage
+
+# production
+p2p_frontend/build
+
+p2p_frontend/.env
+p2p_frontend/package-lock.json
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
